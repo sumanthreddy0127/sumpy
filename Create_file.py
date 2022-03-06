@@ -1,0 +1,10 @@
+f1=open('josh221pm.txt','x')
+# f1=open('josh245pm.txt','w')
+f1.write('today is 28th Feb 2022')
+f1.close()
+# f1=open('Josh2pm.txt','a')
+# f1.write("Today is monday")
+# f1.close()
+# f1=open("Josh2pm.txt",'r')
+# print(f1.read())
+
